@@ -1,17 +1,17 @@
 [
   {
-    'coordinates': [
+    "coordinates": [
       [-73.97003, 40.67264],
       [-73.97228, 40.67008]
     ],
-    'color': 'yellow'
+    "color": "yellow"
   },
   {
-    'coordinates': [
+    "coordinates": [
       [-73.97003, 40.67264],
       [-73.97228, 41.67008]
     ],
-    'color': 'red'
+    "color": "red"
   },
  ]
 
