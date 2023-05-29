@@ -1,0 +1,44 @@
+{
+  "lines": [
+    {
+      "id": "line1",
+      "coordinates": [
+        [-74.5, 40],
+        [-74, 39.5]
+      ],
+      "color": "#FF0000"
+    },
+    {
+      "id": "line2",
+      "coordinates": [
+        [-74, 39.5],
+        [-73.5, 39]
+      ],
+      "color": "#00FF00"
+    },
+    {
+      "id": "line3",
+      "coordinates": [
+        [-73.5, 39],
+        [-73, 38.5]
+      ],
+      "color": "#0000FF"
+    },
+    {
+      "id": "line4",
+      "coordinates": [
+        [-73, 38.5],
+        [-72.5, 38]
+      ],
+      "color": "#FF00FF"
+    },
+    {
+      "id": "line5",
+      "coordinates": [
+        [-72.5, 38],
+        [-72, 37.5]
+      ],
+      "color": "#FFFF00"
+    }
+  ]
+}
